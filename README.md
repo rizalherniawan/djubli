@@ -1,6 +1,6 @@
 Berikut adalah langkah - langkah dalam menjalankan server:
 
-1. Clone repo ke disk local
+1. Clone repo ke disk local <br/><br/>
 2. install tools yang digunakan dengan mengetik **npm install** di terminal. <br/><br/>
 3. Mengatur konfigurasi database dengan me-rename file **.env copy** menjadi **.env** <br/><br/>
 4. Menyesuakan username dan password database serta host yang digunakan di file **.env** <br/><br/>
