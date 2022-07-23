@@ -6,6 +6,6 @@ module.exports = {
     "password": process.env.DB_PASSWORD,
     "database": "carTrades",
     "host": process.env.DB_HOST,
-    "dialect": "postgres"
+    "dialect": process.env.DB_TYPE
   }
 }

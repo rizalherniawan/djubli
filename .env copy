@@ -1,0 +1,4 @@
+DB_USERNAME = 'username db yang digunakan'
+DB_PASSWORD = 'password db yang digunakan'
+DB_HOST = 'host db yang digunakan'
+DB_TYPE = 'jenis db yang digunakan'
